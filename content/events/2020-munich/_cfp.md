@@ -2,7 +2,9 @@
 title: Call for Papers (CFP)
 ---
 
-**The CFP will start shortly, stay tuned! In the meantime send us an [Email](mailto:organizers-munich@kubernetescommunitydays.org) if you have any questions.**
+**[CFP is now open!](https://kcdcfpsubmissions.smapply.io/prog/kcd_munich_cfp/)**
+
+Send us an [Email](mailto:organizers-munich@kubernetescommunitydays.org) if you have any questions.
 
 ## First Time Submitting? Don’t Feel Intimidated
 
@@ -45,7 +47,7 @@ Note: All submissions with 3–5 speakers are required to have at least one spea
 
 ## CODE OF CONDUCT
 
-The Kubernetes Community Days are dedicated to providing a  harassment-free experience for participants at all of our events. We encourage all submitters to review our complete [Code of Conduct](https://kubernetescommunitydays.org/code-of-conduct/).
+The Kubernetes Community Days are dedicated to providing a  harassment-free experience for participants at all of our events. We encourage all submitters to review our complete [Code of Conduct](/code-of-conduct/).
 
 If you have any questions regarding the process, please contact [organizers-munich@kubernetescommunitydays.org][email].
 

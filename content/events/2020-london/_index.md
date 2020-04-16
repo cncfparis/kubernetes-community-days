@@ -41,13 +41,13 @@ organizers:
   homepage: https://suraj.pro
 - name: Ferran A. Castell
   image: ferran.jpeg
-  twitter: https://twitter.com/ferranarau  
+  twitter: https://twitter.com/ferranarau
 sponsors:
-- level: Now open!
+- level: Platinum
   orgs:
-  - name:
-    logo: sponsor.jpeg
-    url: /events/2020-london//sponsor
+  - name: Soda Foundation
+    logo: soda-foundation.png
+    url: https://www.opensds.io/soda-foundation/
 - level: Community
   orgs:
   - name: Cloud Native London
@@ -63,7 +63,11 @@ cfp_deadline: '2020-05-06'
 sponsor_deadline: '2020-07-06'
 ---
 
-Kubernetes Community Days London is happening September 3rd and 4th 2020! The organisers are hard at work preparing the CFP and ticket sales. Check back regularly for updates.
+Kubernetes Community Days London is happening September 3rd and 4th 2020! The CFP is now open, and ticket sales will be opening soon.
+
+CORONAVIRUS UPDATE: At the moment, we don't expect we'll need to postpone KCD London 2020 but the organisers are keeping a close eye on the latest information and if anything changes, we'll let people know by July 15. If we do postpone, attendees and sponsors will be refunded (minus any service fees taken by payment services).
+
+Check back regularly for updates.
 
 {{< tweet 1229699975497551874 >}}
 

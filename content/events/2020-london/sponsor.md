@@ -16,14 +16,14 @@ The London 2020 event will attract 1500 attendees from London, the UK, Europe an
 
 ## Sponsorship details
 
-**Contract deadline:** July 6th
+**Deadline:** July 6th
 
-**Event days:** September 3rd and 4th
+**Invoices before March 16th will not incur VAT, so [request sponsorship ASAP](https://form.jotform.com/200432186845050) to get -20% on these prices.**
 
 
 Details                           | Platinum | Gold      | Silver
 ----------------------------------|----------|-----------|----------
-Number available                  | 2        | 10        | 8
+Number available                  | ~~2~~ 1  | 10        | ~~8~~ 7
 Table size                        | 3m x 2m  | 2.3m x 2m | 1.5m x 1.5m
 Lead scanners                     | 2        | 2         | 1
 Included tickets                  | 8        | 4         | 2
@@ -47,7 +47,7 @@ Attendee Door Prize               | Limit 2  | Limit 1   | Limit 1
 
 Sponsored workshops are 3 hour training sessions. You receive a lead scanner for registering up to 58 workshop participants.
 
-Workshop sponsorship is £3600 and there are 4 available slots.
+Workshop sponsorship is £3600 and there are ~~4~~ 3 available slots.
 
 ## Additional sponsorship
 
